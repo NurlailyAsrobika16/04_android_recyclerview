@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="jti.alifiyulakyun.a04androidrecyclerview.FirstFragment"
+        android:name="com.example.recyclerview.FirstFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="jti.alifiyulakyun.a04androidrecyclerview.SecondFragment"
+        android:name="com.example.recyclerview.SecondFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 

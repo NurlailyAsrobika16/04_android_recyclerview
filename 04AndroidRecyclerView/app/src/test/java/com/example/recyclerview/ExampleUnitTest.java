@@ -1,4 +1,4 @@
-package jti.alifiyulakyun.a04androidrecyclerview;
+package com.example.recyclerview;
 
 import org.junit.Test;
 

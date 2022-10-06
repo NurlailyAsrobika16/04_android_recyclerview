@@ -9,4 +9,45 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="jenis1">Sphynx</string>
+    <string name="judul1"><b>....</b></string>
+    <string name="ga"><b>1</b>
+         \n
+    The Sphynx is a medium-sized cat with a fairly unique and striking appearance,
+    no other form of uncontrolled body, wrinkled skin and large bat-like ears.
+    Generally, this type of cat has a lean and muscular body. In addition, this cat has a triangular
+    head with wide eyes and prominent cheekbones reminiscent of ancient Egyptian cats.
+    Although at first glance it looks bald, but if you look closely, this cat still has fine and
+    short hair on its body.
+    </string>
+    <string name="jenis2">Ragdoll</string>
+    <string name="judul2"><b>....</b></string>
+    <string name="ga2"><b>2</b>
+ \n
+    Ragdoll cats are perhaps best known for their silky white fur and bright blue eyes. But there is more to these beauties than their appearance.
+    Ragdolls have very sweet and friendly personalities that are used among families and cat lovers alike.
+    While the long, white, and silky coat is one of the ragdoll most well-known characteristics, its fur can actually come in a variety of colors.
+    Ragdolls big, bright and blue eyes are another hallmark of this cat. However, not all ragdolls have them.
+    All purebred ragdolls have blue eyes, but mixed breed ragdolls may have dark blue, green, or gold colored eyes that change during their youth.
+</string>
+    <string name="jenis3">Scottish Fold</string>
+    <string name="judul3"><b>....</b></string>
+    <string name="ga3"><b>3</b>
+\n
+    The Scottish Fold is a cat that has its own appearance. In fact, with their folded ears poking out of the surface, their rounded head looks like a cute cat wearing a helmet!
+    They have prominent whiskers that make them smile – one thing this friendly cat would do if she wanted to – and have a strange habit of sleeping on their backs. . They are adorable cats who enjoy playing with humans and are happy to keep an eye on the house with you.
+    However, this cat cant protect itself and wont like being left alone in the house for long periods of time. Potential owners who spend a lot of time outdoors might consider two Scottish Folds so they can play together – at least,
+    having two cats means twice the love and loyalty.
+</string>
+    <string name="jenis4">Tiffanie</string>
+    <string name="judul4"><b>....</b></string>
+    <string name="ga4"><b>4</b>
+\n3
+This charming cat emerged from a breeding program from Burmilla that used the Burmese Persian and Chincilla as a starting point.
+    Today, many cat associations and breeders are working hard to develop this breed to the highest possible standards, so that this cat can have it all.
+    If you want to have a cat that has beauty, intelligence and personality, as well as the quality of an additional coat that is slightly longer and doesnt tangle or fall out, then the Tiffanie is for you.
+    One of the most striking things about her is her green eyes, and the corners of her eyes, as well as the variety of colors for her eye and lips which are attractive. Tiffanie is available in 5 colors – black, brown, blue, brown and purple.
+</string>
+    <string name="cat_image_desc">Cat image</string>
 </resources>

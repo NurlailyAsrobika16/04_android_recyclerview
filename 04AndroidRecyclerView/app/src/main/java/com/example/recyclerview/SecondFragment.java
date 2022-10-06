@@ -1,4 +1,4 @@
-package jti.alifiyulakyun.a04androidrecyclerview;
+package com.example.recyclerview;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-import jti.alifiyulakyun.a04androidrecyclerview.databinding.FragmentSecondBinding;
+import com.example.recyclerview.databinding.FragmentSecondBinding;
 
 public class SecondFragment extends Fragment {
 
